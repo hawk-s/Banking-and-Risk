@@ -13,6 +13,9 @@ The structure of this section is the following. First, we provide a Profit/Loss 
 
 In the following figure, we can see the division and attributable sales of the Nintendo company’s products. The biggest share on the sales have the video game hardware and software, of which the Nintendo Switch platform is the key component.
 
+![Local Image](images/image1.png)
+
+
 Next, we briefly summarize the Sales Development:
 
 - **Nintendo Switch Business:** Strong sales for Pokémon Scarlet, Pokémon Violet, and Splatoon 3 games (as a physical medium). However, overall decline in hardware unit sales by 22.1%, impacted by semiconductor shortages and consequent production issues.
@@ -21,6 +24,8 @@ Next, we briefly summarize the Sales Development:
 - **Playing Cards, etc.:** Although only a relatively small share of the company’s production, sales increased significantly by 105.1% YoY.
 
 Now we connect the sales to profit. In the following figure, we can see the evolution of sales and profit from 2019 to 2023, including a forecast for 2024.
+
+![Local Image](images/image2.png)
 
 Overall, we see that the Net Sales declined from ¥1,695,344 million in the previous fiscal year (2022) to ¥1,601,677 million, which is a decrease of 5.5%. Also, Gross Profit decreased from ¥946,044 million to ¥885,440 million, with a gross profit margin of 55.3%. Since the gross profit margin is the proportion of remaining revenue after deducting the cost of goods sold (COGS), compared to the year 2019 where it was about 42%, this is a significant improvement. Moreover since the year 2021, the Gross Profit Margin remains relatively stable between 55 and 56 percent.
 
@@ -39,6 +44,8 @@ The operating profit decreased mainly due to increased research and development 
 
 Nintendo faces FX risk due to more than 75% of total sales generated outside Japan as can be inferred from the Component ratio in the below graph. This might have an impact on financial performance due to exchange rate fluctuations.
 
+![Local Image](images/image3.png)
+
 #### Competitors' Comparison
 
 - Additional market research needed for competitive analysis.
@@ -46,6 +53,8 @@ Nintendo faces FX risk due to more than 75% of total sales generated outside Jap
     - Sony Interactive Entertainment (SIE), Microsoft Corporation, Electronic Arts (EA), Activision Blizzard, Ubisoft Entertainment, Tencent Holdings
 
 ### 2. Balance Sheet (B/S) Analysis
+
+![Local Image](images/image4.png)
 
 #### Main Assets and Liabilities
 
@@ -79,6 +88,8 @@ These ratios tell us the proportion of debt in relation to the company's total a
 
 ### 3. Cash Flow (CF) Analysis
 
+![Local Image](images/image5.png)
+
 #### Stability, Sustainability, Liquidity
 
 - **Cash and Cash Equivalents:** Increased by ¥171.8 billion during the fiscal year.
@@ -92,9 +103,9 @@ Overall, the stability and sustainability of Nintendo's cash flow seem positive.
 - **Current Ratio:** Current Assets/Current Liabilities ≈ 4.34
   - This liquidity ratio indicates that the company has a strong ability to cover its short-term liabilities with its current assets. A current ratio and/or quick ratio well above 1 suggest a comfortable liquidity position. Overall, the Nintendo company has a strong short-term liquidity.
 
-#### Additional Financial Analysis
+### 4. Additional Financial Analysis
 
-### 3. Ratio Analysis (Du Pont Diagram)
+#### Ratio Analysis (Du Pont Decomposition)
 
 The Du Pont analysis decomposes the Return on Equity (ROE) into three components: Net Profit Margin, Asset Turnover, and Equity Multiplier. Now we calculate those ratios:
 
