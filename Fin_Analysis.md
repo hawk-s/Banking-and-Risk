@@ -127,17 +127,28 @@ A brief analysis of Nintendo's profitability, efficiency, and leverage based on 
 
 #### Additional Ratio Analysis
 
-- **Return on Assets (ROA):** 16.1%
-- **Asset Turnover (Alternative Calculation):** 0.56 times
-- **Return on Investment (ROI):** 15.2%
-- **Financial Leverage (Equity Multiplier - Alternative Calculation):** 1.25 times
+1. **Return on Assets (ROA):**
+   - ROA = (Net Profit / Average Total Assets) * 100
+   - ROA ≈ (432,768 million yen) / ((2,662,384 million yen + 2,854,284 million yen) / 2) * 100 ≈ 16.1%
+
+2. **Asset Turnover:**
+   - Asset Turnover = Net Sales / Total Assets
+   - Asset Turnover ≈ 1,601,677 million yen / 2,854,284 million yen ≈ 0.56 times
+
+3. **Return on Investment (ROI):**
+   - ROI = (Net Profit / Total Assets) * 100
+   - ROI ≈ (432,768 million yen) / 2,854,284 million yen * 100 ≈ 15.2%
+
+4. **Financial Leverage:**
+   - Financial Leverage = Average Total Assets / Average Shareholders' Equity
+   - Financial Leverage ≈ ((2,662,384 million yen + 2,854,284 million yen) / 2) / ((2,146,798 million yen + 2,003,469 million yen) / 2) ≈ 1.25 times
 
 These additional ratios provide a more detailed view of Nintendo's financial performance, including profitability, efficiency, leverage, and liquidity:
 
-- **Return on Assets (ROA) of 16.1%** indicates how efficiently the company is utilizing its assets to generate profit. A higher ROA suggests better asset utilization.
-- **Asset Turnover (Alternative Calculation):** An alternative measure of how efficiently assets are used to generate sales, indicating that Nintendo generates 56 cents in sales for every yen of assets.
+- **Return on Assets (ROA) of 16.1%** indicates how efficiently the company is utilizing its assets to generate a profit. A higher ROA suggests better asset utilization.
+- **Asset Turnover of 0.56 times:** An alternative measure of how efficiently assets are used to generate sales, indicating that Nintendo generates 56 cents in sales for every yen of assets.
 - **Return on Investment (ROI) of 15.2%** measures the return generated on total assets. Similar to ROA.
-- **Financial Leverage (Equity Multiplier - Alternative Calculation):** Another measure of leverage, indicating the extent to which assets are funded by equity, suggesting that assets are funded 25% more by equity than the equity multiplier alone indicates.
+- **Financial Leverage of 1.25 times:** Another measure of leverage, indicating the extent to which assets are funded by equity, suggesting that assets are funded 25% more by equity than the equity multiplier alone indicates.
 
 In conclusion, Nintendo's financial performance shows a decline in certain key areas. However, the company's strong cash position and stability in digital sales indicate resilience in the face of challenges. (But a more detailed analysis, including benchmarking against industry peers, is necessary for a more complete evaluation.)
 
