@@ -110,20 +110,29 @@ Overall, the stability and sustainability of Nintendo's cash flow seem positive.
 The Du Pont analysis decomposes the Return on Equity (ROE) into three components: Net Profit Margin, Asset Turnover, and Equity Multiplier. Now we calculate those ratios:
 
 1. **Net Profit Margin:**
-   - Net Profit Margin = Net Profit/Net Sales × 100 ≈ 27.0%
+   - Net Profit Margin = (Net Profit / Net Sales) * 100
+   - Net Profit Margin ≈ (432,768 million yen / 1,601,677 million yen) * 100 ≈ 27.0%
+
 2. **Asset Turnover:**
-   - Asset Turnover = Net Sales/Average Total Assets ≈ 0.6 times
+   - Asset Turnover = Net Sales / Average Total Assets
+   - Average Total Assets = (Total Assets at the beginning + Total Assets at the end) / 2
+   - Asset Turnover ≈ 1,601,677 million yen / [(2,662,384 million yen + 2,854,284 million yen) / 2] ≈ 0.6 times
+
 3. **Equity Multiplier:**
-   - Equity Multiplier = Total Assets/Shareholders’ Equity ≈ 1.33 times
+   - Equity Multiplier = Total Assets / Shareholders’ Equity
+   - Equity Multiplier ≈ 2,854,284 million yen / 2,146,798 million yen ≈ 1.33 times
+
 4. **Return on Equity (ROE):**
-   - ROE = Net Profit Margin × Asset Turnover × Equity Multiplier ≈ 0.18 or 18%
+   - ROE = Net Profit Margin × Asset Turnover × Equity Multiplier
+   - ROE ≈ 0.27 * 0.6 * 1.33 ≈ 0.18 or 18%
 
 A brief analysis of Nintendo's profitability, efficiency, and leverage based on the calculated figures:
 
-- The Net Profit Margin of approximately 27.0% indicates that Nintendo retains 27 cents from every yen of sales as profit. A higher net profit margin means higher profitability.
-- The Asset Turnover of approximately 0.6 times suggests that for every yen of assets, Nintendo generates 60 cents in sales. It measures the efficiency of asset utilization in generating revenue.
-- The Equity Multiplier of approximately 1.33 times indicates that Nintendo's assets are funded 33% by equity, reflecting the level of financial leverage.
-- The resulting ROE of approximately 18% signifies the overall return generated for shareholders, with respect to the profitability, efficiency, and leverage. It indicates the effectiveness of management in using equity to generate profits.
+- The **Net Profit Margin of approximately 27.0%** indicates that Nintendo retains 27 cents from every yen of sales as profit. A higher net profit margin means higher profitability.
+- The **Asset Turnover of approximately 0.6 times** suggests that for every yen of assets, Nintendo generates 60 cents in sales. It measures the efficiency of asset utilization in generating revenue.
+- The **Equity Multiplier of approximately 1.33 times** indicates that Nintendo's assets are funded 33% by equity, reflecting the level of financial leverage.
+- The resulting **ROE of approximately 18%** signifies the overall return generated for shareholders, with respect to profitability, efficiency, and leverage. It indicates the effectiveness of management in using equity to generate profits.
+
 
 #### Additional Ratio Analysis
 
